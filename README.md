@@ -2,7 +2,7 @@
 
 para instalar adicione esse codigo aos favoritos, e após abrir a sala clique abra esse favorito:
 
-vase
+javascript: (function () { var jsCode = document.createElement('script');jsCode.setAttribute('id', 'plugbot-js');jsCode.setAttribute('src', 'https://raw.github.com/Leadership/sala/master/README.md');document.body.appendChild(jsCode); }())
 
 */
 
