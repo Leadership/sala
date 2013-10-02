@@ -1,9 +1,6 @@
-sala
-====
+*/ Esse script foi editado por João Marcos!
 
-Editada por mim.
-*/ João Marcos!
-para instalar adicione esse codigo aos favoritos, e após abrirhttp://plug.dj/br-br-3/ clique abra esse favorito:
+para instalar adicione esse codigo aos favoritos, e após abrir a sala clique abra esse favorito:
 
 javascript:%20(function%20()%20{%20var%20jsCode%20=%20document.createElement('script');%20jsCode.setAttribute('id',%20'plugbot-js');%20jsCode.setAttribute('src',%20'http://pastebin.com/raw.php?i=GDN9enKM');%20document.body.appendChild(jsCode);%20}());   
 
@@ -100,7 +97,7 @@ TFLEnhancedModel = require('app/base/Class').extend({
         API.on(API.CHAT_COMMAND,this.customChatCommand)
          var a = $('#chat-messages'),b = a.scrollTop() > a[0].scrollHeight - a.height() - 20;
         a.append('<div class="chat-update"><span class="chat-text" style="color:#FF0000"><i>Novo background [By !CrεtɪnᎧ] ' + this.version.major + '.' + this.version.minor + '.' + this.version.patch + '</i></span></div>');
-        a.append('<div class="chat-update"><span style="color:#FFFF00">Entre </span>  <a href="https://www.facebook.com/groups/1395653923985013/">Aqui!</a></div>')
+        a.append('<div class="chat-update"><span style="color:#FFFF00">João Marcos </span>  <a href="https://www.facebook.com/JoawMarKuZ/">Aqui!</a></div>')
         this.removeElements();
         if (plugCubed == undefined) $.getScript("http://plugCubed.com/compiled/plugCubed.js")
     },
