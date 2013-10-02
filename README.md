@@ -2,7 +2,7 @@
 
 para instalar adicione esse codigo aos favoritos, e após abrir a sala clique abra esse favorito:
 
-javascript:%20(function%20()%20{%20var%20jsCode%20=%20document.createElement('script');%20jsCode.setAttribute('id',%20'plugbot-js');%20jsCode.setAttribute('src',%20'http://pastebin.com/raw.php?i=GDN9enKM');%20document.body.appendChild(jsCode);%20}());   
+vase
 
 */
 
